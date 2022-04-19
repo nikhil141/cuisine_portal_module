@@ -223,6 +223,8 @@ foreach($results as $result)
 <script src="assets/js/interface.js"></script> 
 <!--Switcher-->
 <!--Switcher-->
+<!--Switcher-->
+<!--Switcher-->
 <script src="assets/switcher/js/switcher.js"></script>
 <!--bootstrap-slider-JS--> 
 <script src="assets/js/bootstrap-slider.min.js"></script> 
